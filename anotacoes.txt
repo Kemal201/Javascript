@@ -1,2 +1,7 @@
 Começando os estudos sobre JS finalmente! VOltado para o backend.
 Instalando NodeJS
+
+Referências para cada tipo de seletor CSS:
+
+#Ids 
+.Classes
